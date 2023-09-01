@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>testRender</name>
+    </assembly>
+    <members>
+        <member name="T:testRender.ViewModel.ProductViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:testRender.ViewModel.ProductViewModel.Product">
+            <inheritdoc cref="F:testRender.ViewModel.ProductViewModel._product"/>
+        </member>
+        <member name="P:testRender.ViewModel.ProductViewModel.OperatingProduct">
+            <inheritdoc cref="F:testRender.ViewModel.ProductViewModel._operatingProduct"/>
+        </member>
+        <member name="P:testRender.ViewModel.ProductViewModel.IsBusy">
+            <inheritdoc cref="F:testRender.ViewModel.ProductViewModel._isBusy"/>
+        </member>
+        <member name="P:testRender.ViewModel.ProductViewModel.BusyText">
+            <inheritdoc cref="F:testRender.ViewModel.ProductViewModel._busyText"/>
+        </member>
+        <member name="F:testRender.ViewModel.ProductViewModel.setOperatingProductCommand">
+            <summary>The backing field for <see cref="P:testRender.ViewModel.ProductViewModel.SetOperatingProductCommand"/>.</summary>
+        </member>
+        <member name="P:testRender.ViewModel.ProductViewModel.SetOperatingProductCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand`1"/> instance wrapping <see cref="M:testRender.ViewModel.ProductViewModel.SetOperatingProduct(testRender.Model.Product)"/>.</summary>
+        </member>
+        <member name="F:testRender.ViewModel.ProductViewModel.saveProductCommand">
+            <summary>The backing field for <see cref="P:testRender.ViewModel.ProductViewModel.SaveProductCommand"/>.</summary>
+        </member>
+        <member name="P:testRender.ViewModel.ProductViewModel.SaveProductCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:testRender.ViewModel.ProductViewModel.SaveProductAsync"/>.</summary>
+        </member>
+        <member name="F:testRender.ViewModel.ProductViewModel.deleteProductCommand">
+            <summary>The backing field for <see cref="P:testRender.ViewModel.ProductViewModel.DeleteProductCommand"/>.</summary>
+        </member>
+        <member name="P:testRender.ViewModel.ProductViewModel.DeleteProductCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:testRender.ViewModel.ProductViewModel.DeleteProductAsync(System.Int32)"/>.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Product">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Product" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.OperatingProduct">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "OperatingProduct" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.IsBusy">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "IsBusy" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.BusyText">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "BusyText" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Product">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Product" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.OperatingProduct">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "OperatingProduct" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.IsBusy">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "IsBusy" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.BusyText">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "BusyText" generated properties.</summary>
+        </member>
+    </members>
+</doc>

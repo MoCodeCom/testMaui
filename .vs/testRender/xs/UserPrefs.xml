@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{646804E8-F4FC-4E7A-96CC-425E77C4883D}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="33.0.68" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.5BAF13C4-4E20-4FC6-93E4-AF3698A60CE0" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.testRender PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.5BAF13C4-4E20-4FC6-93E4-AF3698A60CE0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="testRender/Data/DatabaseContext.cs">
+    <Files>
+      <File FileName="testRender/MauiProgram.cs" Line="33" Column="1" />
+      <File FileName="testRender/AppShell.xaml" Line="1" Column="1" />
+      <File FileName="testRender/Data/DatabaseContext.cs" Line="13" Column="31" />
+      <File FileName="testRender/View/dbTest.xaml" Line="12" Column="57" />
+      <File FileName="testRender/Model/Product.cs" Line="10" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="testRender" expanded="True">
+            <Node name="testRender">
+              <Node name="Data" expanded="True">
+                <Node name="DatabaseContext.cs" selected="True" />
+              </Node>
+              <Node name="Model" expanded="True" />
+              <Node name="View" expanded="True">
+                <Node name="dbTest.xaml" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
